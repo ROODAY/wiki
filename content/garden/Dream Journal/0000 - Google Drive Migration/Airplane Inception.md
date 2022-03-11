@@ -1,0 +1,16 @@
+- on flight to phl
+- fall asleep (so far this is real)
+- wake up, get off into airport. things are slightly weird but don't question (dreaming now)
+- connecting flights dont have to take off shoes, everyone else does
+- eventually pass through security, go back a couple times to shoe area
+- almost figure it out here that its a dream
+- theres some weird aside where a bunch of dance groups were meeting in some town center, cobblestone pavement, chilled here for a bit
+- hung with neil a bit in some place, check the time and its the time of the flight leaving, rush back
+- first discrepancy, supposed to be morning but night aside
+- also neil's place is literally on airport property, got to airport doors in like a minute
+- At this point start to think I'm in a dream, try testing things out like looking at people's faces (still looked detailed enough), tried walking into stuff to see what would happen. Everything happened normally but no one reacted
+- Realized im in a dream and try messing with things, like will things into existence but it didn't work so I got scared it was real
+- Then "woke up" and saw I was still in the plane, but then fell asleep again
+- Eventually tried making noise to wake up, to the point of yelling/screaming. Didn't work, vision went black as if blindfolded. kept seeing some words pop up and tried to say them, something about a serial killer and trying to warn people 
+- Kept screaming and couldn't wake up, eventually woke up for real when we landed. 
+- Surprised I didn't actually make noise, as no one seem disturbed. It would seem that the screaming was in layer 2 trying to wake up to layer 1, where I didn't seem to be aware was also a dream

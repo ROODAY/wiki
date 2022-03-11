@@ -1,0 +1,3 @@
+- urban setting
+- not sure what I had to do, when time would reset just the ending 
+- two girls at end, just talking to them about how it took literally hundreds of thousands of tries to get right 

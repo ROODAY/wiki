@@ -1,0 +1,7 @@
+- I was a mad scientist
+- lived in a dorm type building
+- something happened and I had to kill my drone ai thing and reboot it into a new body
+- went out the window and scaled down the building into another floor as swat was coming
+- went through someone's dorm room and ran to common room to monitor swat with drone
+- theyre all around it I've been got
+- all at nighttime

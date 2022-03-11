@@ -1,0 +1,5 @@
+- machine that could see things in parallel dimensions, usually in different conditions
+- like tears from bioshock
+- was in a big mansion with everyone, then people came after me for the machine
+- created a portal and went through into a giant underground lab, all white like aperture
+- filled with combine soldiers and drones etc

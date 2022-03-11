@@ -1,0 +1,4 @@
+- link to starship troopers
+- Civic duty, requirement to vote
+- Citizens should have critical thinking and empathy
+- Break out a section for education, changes that can be done there

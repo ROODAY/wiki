@@ -1,0 +1,4 @@
+- [Contexts](https://taskwarrior.org/docs/context.html) for home/work/school etc. I can have a personal and work context, and then projects/tags/etc. within each.
+- Can add [user defined attributes](https://taskwarrior.org/docs/udas.html)
+- Can [review tasks](https://taskwarrior.org/docs/review.html)
+- [JSON reference](https://taskwarrior.org/docs/design/task.html) for making a custom client

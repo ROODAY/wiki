@@ -1,0 +1,1 @@
+Soylent and food in general. Pick one? Maybe 2 notes? Basically just dichtomy between liking soylent and cooking.

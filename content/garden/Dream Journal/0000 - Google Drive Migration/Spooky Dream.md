@@ -1,0 +1,14 @@
+- small town
+- strange things going on that everyone ignores
+- seeing things like ghosts
+- even during day time see ghost face in tree roots on ground that matches a ghost walking around in the side room 
+- we're at a house party where people keep arriving, late at night.
+- I keep seeing weird shit but people tell me I'm mistaken
+- like seeing faces in windows
+- see little shed thing outside
+- try talking to little kid who I think can see the things too but can't get anything out of her 
+- eventually shit culminates in things everyone can see
+- two little kids from drag a body near the shed into the shed.
+- some weird figure is creepy walking into another house
+- table randomly gets super hot and boils water
+- I freak out and wake up

@@ -1,0 +1,1 @@
+Stuff learned from cooking videos, so things on ingredients, or recipes. lets start with Oregano

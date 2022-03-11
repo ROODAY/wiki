@@ -1,0 +1,12 @@
+- dating a person
+- big thing that everyone is going to, some fun place
+- teleporter pads send people to destinations
+- but you need Id to pass
+- at one end of airport is the place to go, but remember leaving jacket with wallet on other end
+- run all the way across, but no jacket so no wallet
+- everyone leaves and trip happens without me
+- look around, try to find jacket, who took it
+- someone says someone else took it, follow that lead, etc, nothing comes up
+- all throughout the girl I'm dating keeps wanting to do things but I say I can't because I need to find wallet, she says I never have time etc etc
+- eventually she says she had it, sold it, and leaves and I'm like wut
+- I think girl was Chloe?

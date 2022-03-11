@@ -1,0 +1,1 @@
+we should make data totally accessible to it's owner. E.g. if a user wants to see their own logs, why don't we? Is there a way of doing so that hides proprietary info?

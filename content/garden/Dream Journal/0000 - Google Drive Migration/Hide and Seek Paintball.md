@@ -1,0 +1,9 @@
+- hide and seek/paintball game where people have holograms
+- hiding/lying on floor and shooting through cracks in the wall
+- eventually its down to me and one other
+- it's Andy Samberg
+- find each other but we don't have ammo
+- tackle each other, both notice paint balls on ground
+- each grab one and load and fire at same time, so it's a tie
+- after that a separate scene of being in an area and shooting zombies
+- but the zombies can be normal?

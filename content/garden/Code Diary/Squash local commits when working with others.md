@@ -1,0 +1,1 @@
+If you have a bajillion local commits and someone needs to rebase off that, they're gonna hate you.

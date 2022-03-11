@@ -1,0 +1,5 @@
+- in massive hotel building
+- started with dinner with everyone
+- then split into groups
+- different floors were themed differently
+- needed to collect gems from challenges

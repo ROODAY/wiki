@@ -1,0 +1,5 @@
+- little girl who is orphaned then adopted
+- bed is like a spaceship, can travel dimensions (everything turns white like antichamber when its ready to move)
+- cant leave to old dimension until she learns something from it
+- has an adoptive older brother, eventually stumbled into one with her 
+- One dimension/scenario is where she keeps counting numbers to cope without parents, adoptive mom is trying to reach through to her

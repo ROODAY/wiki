@@ -1,0 +1,6 @@
+- can jump high, maybe jetpack or something
+- fitst in suburban area then junkyard
+- sentinel robots in suburbs, soldiers in junkyard
+- sentinel robots were walkers and flying drones
+- soldiers had dogs
+- not sure what the objective was

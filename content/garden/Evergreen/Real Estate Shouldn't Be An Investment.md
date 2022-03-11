@@ -1,0 +1,1 @@
+Affordable housing for all and real estate as an investment are opposing ideas

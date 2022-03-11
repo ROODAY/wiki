@@ -1,0 +1,14 @@
+- we find this book that has some keys in it and a smaller book inside
+- smaller book has slots for many keys
+- also has small clues for challenges
+- have to get all the keys and fill the book
+- travel everywhere to do so, others are racing with us
+- group includes small kid, nightshade lady, rich dishonored looking man, and Danny rand
+- lots of stuff happen in the middle
+- eventually get to space station with nukes
+- for some reason have to nuke Georgia
+- find an ai on the stations that's on our side, hack into the system and lock out the station people
+- fire the nuke
+- doing so ruptures the command area and we don't have suits
+- we hold onto this glass part and hit a button and it forms a pressurized capsule, parachutes down to ground
+- land near Japan 

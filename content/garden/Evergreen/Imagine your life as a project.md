@@ -1,0 +1,1 @@
+Specifically an agile project (update the title?) Basically you should have metrics to improve on, and have short time frames, so that you can see what progress was made to long term goals (stories/features/epics) and iterate fast. Short time frames gives urgency, and idea of a project means it's constantly improving, etc. Link to 12 week year, perhaps expand on that.

@@ -1,0 +1,1 @@
+Araki's book on how to be a mangaka/make a good manga

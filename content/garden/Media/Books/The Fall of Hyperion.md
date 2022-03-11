@@ -1,0 +1,4 @@
+- So far it seems to be a linear structure (not a collection of short stories), following a second Keats cybrid.
+- I didn't realize how fast part 1 was, I'm already in part but there's still 15 hours left in the audiobook, perhaps part 1 is just really short. The story picks up a lot after part 1 and feels more exciting, although I do feel like I missed a lot of important bits in part 1 as I was too tired while listening.
+- I also wish it was multicast, the first book felt a lot more alive by having different voices for each character.
+- I feel like I don't really have many notes, I'm just experiencing this book, but perhaps I've just been too tired lately.

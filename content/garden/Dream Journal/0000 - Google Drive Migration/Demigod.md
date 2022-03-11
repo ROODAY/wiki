@@ -1,0 +1,7 @@
+- Poseidon gives task
+- Father's ashes in Jar on top of gold pyramid on top of giant demon in sea
+- Get there, fight way out with groot like thing and someone else.
+- Trapped in freezer with cooks escape
+- There's an Alexander the great/fallen angel character who just wants his crown back
+- Lord demon promises him the crown if he helps kill us so he switches sides
+- Alexander has a flame sword

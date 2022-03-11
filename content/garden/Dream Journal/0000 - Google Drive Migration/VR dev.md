@@ -1,0 +1,2 @@
+- can jam wifi with vive
+- break noahs phone

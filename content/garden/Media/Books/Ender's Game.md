@@ -1,0 +1,3 @@
+- Truly understanding your enemy, empathizing with them, loving them in doing so
+- Leadership
+- Similar to [[Starship Troopers]], the buggers in Ender's Game can be thought of as a perfect [[Communism]] due to being a hive mind.

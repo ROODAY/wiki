@@ -1,0 +1,12 @@
+- trying to survive with a group of people, includes girlfriend and her little brother and my parents.
+- there's a virus that kills you and turns you into a zombie like thing
+- eventually we steal from some gang to survive and they get pissed and come after us
+- kill girlfriend and little brother, we escape
+- after getting to safety, I cry for first time in a while
+- get to safe/neutral zone restaurant thing
+- we're eating, all is well
+- notice something weird with sauce packet, tell people not use it.
+- others start dying, packets were poisoned with virus.
+- mad rush to bathrooms as everyone tries to wash hands,
+- gang busts in and starts killing people
+- try to escape again

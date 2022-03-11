@@ -1,0 +1,9 @@
+- Related concepts:
+	- Utilitarianism, act vs rule based (results oriented vs GTO)
+		- Act Utilitarianism seems superior if and only if we can account for all higher order effects, otherwise we can't accurately asses the utility of an act and have to fall back on rule based utilitarianism as a "best guess" for average utility.
+	- Trolley problem, e.g. 1 businessman/doctor vs 5 children
+	- Is utilitarianism evolutionarily advantageous, e.g. will all societies/civilizations adopt cultures based around the idea of promoting net happiness?
+	- Conformity vs. desire, e.g. letting people do whatever they want will maximize individual utility, but if they harm others that lowers net utility, therefore we need them to conform to some agreed upon standards of acceptable desires, e.g. laws
+	- How deeply do we need to measure utility? e.g. measuring utility to a sufficient resolution, i.e. what will be affected by an action, do we only care about ourselves, our community, our country, our planet, solar system, etc.? Where do we stop the hedonic calculus?
+	- What is the frame of reference for deciding what is positive and negative utility? Positive utility for the human may be negative for the environment/animals/etc. Is this related to moral relativism?
+- What's better for utility, happiness or "good"? E.g. is it better to give everyone unlimited donuts because they make them happy, even if it causes them to get obese and die sooner? Or is it better to restrict their food so that they are healthy, even if it makes them unhappy? [[Dmitry]] mentioned short vs long term happiness as a related concept.

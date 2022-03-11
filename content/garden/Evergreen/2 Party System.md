@@ -1,0 +1,3 @@
+- Why its bad
+- gerrymandering
+- 

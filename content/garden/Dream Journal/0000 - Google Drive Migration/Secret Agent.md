@@ -1,0 +1,11 @@
+- sent to abandoned space station on moon in group of 3 to investigate what happened
+- Find this living black goo that chases us and covers all of us and think we dead
+- wake up a bit later seeming fine
+- request pickup, we sent back on big plane with other agents
+- arrive at secret base, get quarantined and decontaminated, checked for stuff etc, nothing found and we party
+- sent on another mission, en media res fight my way out of a group of people with a baseball bat
+- run out of complex and into desert
+- survive in desert while evading guy from complex
+- eventually steal one of his cars from a patrol and get back to base
+- at base get a vision that the guy knows of the base since he can track his car
+- random thing, agents have numbers on shoes

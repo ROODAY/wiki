@@ -1,0 +1,4 @@
+- bunch of soldiers
+- mobilizing at night in an abandoned hospital and surrounding woodlands
+- high tech gear
+- goal is to retrieve an advanced android, appears human, called the asset (perhaps keep the identity/what the asset is secret till the end)

@@ -1,0 +1,1 @@
+What is the ideal form of government?

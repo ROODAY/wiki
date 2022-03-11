@@ -1,0 +1,4 @@
+- people outside event/stadium cooking bbq
+- vr dancing with someone also in vr
+- big circular bedroom with circle bed and orb lights
+- some party thing in a city, with those  tower rides that launch you up and then come down. Joseph Lee photography was there

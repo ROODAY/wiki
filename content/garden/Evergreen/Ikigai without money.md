@@ -1,0 +1,1 @@
+Why does needing to be paid have to be part of the equation?

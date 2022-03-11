@@ -1,0 +1,6 @@
+- earth about to be destroyed
+- my hair tie on wrist is a teleporter to safe station
+- grab some people near me, we teleport away as earth surface is lasered by something
+- we live on ship for a while, eventually get word that surface is habitable
+- use secret teleporter disguised as a toilet to see surface
+- looks completely alien, lots of ice and blue and stuff

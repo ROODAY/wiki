@@ -1,0 +1,6 @@
+- sneaking around building
+- shooting enemies and they don't see me
+- enter building
+- I'm azula for some reason, being helped by 2 other people (older dude and a girl)
+- need to kidnap the girl in the mansion, have to incapacitate
+- but also sneak past the guards

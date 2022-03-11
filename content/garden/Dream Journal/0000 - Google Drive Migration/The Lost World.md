@@ -1,0 +1,6 @@
+-   Parents were there ahead of time (not my actual parents, I was someone else)
+-   Dog just died (pitbull), when parents ask I broke down crying (I thought I cried in real life next to Carey too, I was in and out of consciousness)
+-   Rafts on water
+-   Giant mountains of random shit that fell thru portals
+-   Color palette was very dishonored, like the outsider’s realm but a bit more vibrant blue
+-   Trapped there, can’t get out

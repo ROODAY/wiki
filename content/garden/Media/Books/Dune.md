@@ -1,0 +1,9 @@
+- interesting ways of speaking
+- Like a mix of high tech future society with medieval politics, ways of thinking
+- Lots of intrigue
+- Switched to audiobook after book 1, shifts between 1 voice and multicast
+- Lots of focus on noticing subtle things in the environment/people and using that to your advantage. Reminds of the show Psych.
+- The focus on water is interesting, or rather just how detailed Herbert goes into in his worldbuilding. The religion of the Fremen is so rich and detailed, e.g. the focus on water. When Paul cries at the funeral of Jamis (not sure how it's spelt) they revere him for giving the gift of his water to the dead. Comparing this to [[Hyperion]], which I think also had really good worldbuilding, I think Dune is a lot more subtle about it. The story, at least the part I'm in now since the battle just happened, is a lot more subdued. Perhaps the nature of [[Hyperion]]'s mini stories vs. Dune being a big story allowed [[Hyperion]] to have faster pacing, and that's what I'm picking up on?
+- It picked up a lot during the ending, I guess due to there being more action sequences. Overall the book is definitely a slow burn compared to [[Hyperion]] or [[Starship Troopers]] or [[Ender's Game]]. Similar to [[The Three-Body Problem]] in pacing, but that's not a bad thing.
+- [[Shashank]] mentioned that the Dune series is an indictment on religion, or at least the blind fanaticism that can be associated with it. I can see that, as in the book Paul is trying to stop the jihad of his visions but knows it will happen anyways, the myth of him has overtaken the reality of his character.
+- I don't really have much thoughts on the book other than that it was good, a fun listen, and that the worldbuilding is very in-depth. Perhaps I should read some other people's analyses and see if I have more to say, as I definitely had a lot to say for [[The Three-Body Problem]].

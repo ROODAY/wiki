@@ -1,0 +1,1 @@
+Quote by Quellcrist Falconer from Altered Carbon. Explain what this means to you/your interpretation

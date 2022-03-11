@@ -1,0 +1,3 @@
+- we attackers to save hostage
+- but also cthulhu monsters
+- we destroy house in order to save hostage

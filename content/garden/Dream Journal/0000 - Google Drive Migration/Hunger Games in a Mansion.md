@@ -1,0 +1,5 @@
+- in big mansion with all the interns
+- we're split into groups of two
+- we have to fight each other to survive
+- im orginally with one guy who has body armor, i take the armor but end up switching teams
+- new team girl has some guns, we walk around trying to find a good place to defend, then the game starts

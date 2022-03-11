@@ -1,0 +1,4 @@
+-   It was Kevin's birthday and I was showing up to the party. 
+-   I knock and some people in fancy clothes open the door and I look down and I'm wearing only underwear and I'm like shit I'm under dressed for this party. 
+-   Then I go around asking someone for a t shirt and Kevin offers me a shirt and I'm like you know I'll just go home and get a suit.
+-   As I get in my car and start out the driveway a bunch of hi-tech cop cars with omni wheels swoop in sideways in front of me and I dodge the cops as they chase me home, where I get my suit and then film a paint commercial, getting paint on my suit and then waking up

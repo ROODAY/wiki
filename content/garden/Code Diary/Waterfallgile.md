@@ -1,0 +1,5 @@
+Mix of Waterfall and Agile. Waterfall is about strictly planning out and estimating a project before you start so that you can commit to deadlines, agile is about working on what's the highest priority work, and redoing the list of priority on a short cadence to make sure it's accurate.
+
+Gets used in Research Agility specifically because we want to do agile to make sure we're producing the most important stuff the fastest, but we need to commit to deadlines for partner teams so it's waterfall in that sense.
+
+Waterfall is more necessary when dependency chains are long, agile works when they're short. E.g. Discord probably doesn't have to answer to anyone but the users, and that's a scenario where they just want to work on the highest priority tasks, which are probably decided based on customer feedback (and probably some money related factors too). In Research Agility, other teams need the platform we're making in order to make their things, so we can't be truly agile.

@@ -1,0 +1,1 @@
+When a relationship has higher stakes, higher confidence is required, and therefore more effort is required to gain the confidence of the other party (e.g. compare relationships to friendships, gf to the boys)

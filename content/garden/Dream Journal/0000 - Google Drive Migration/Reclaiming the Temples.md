@@ -1,0 +1,7 @@
+-   Started as a beach house trip
+-   There was a cat that could talk, turned out to be some powerful entity from some other dimension/etc
+	-   I wanted cat to cuddle me more but it said I was sweaty and needed to shower
+-   Was the good guy/power was light related. Had to go to these temples (there was a hub area with portals to the different temples) and summon these orbs and place them back in the temple to bring back the light. The more temples this is done, the stronger the good guy gets
+-   Successfully fixed one temple, but when doing the second, the antagonist showed up. They cast a spell on the good guy to make it harder to use their power. Originally the good guy could just summon light to banish the dark and do stuff, but now they have to use a spell so it takes longer/more effort
+-   When this happened the temple was immediately filled with dark and the good guy had to indiana jones style escape through the portal to avoid being consumed
+-   Both good guy and antagonist have something like a stand, looks like them but either made of light or dark and can do stuff

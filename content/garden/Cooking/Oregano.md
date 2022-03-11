@@ -1,0 +1,1 @@
+A tip from acooknamedmatt: Crush up coarse oregano with your hands to make smaller bits. Link this to idea of [[Surface Area]], more surface in cooking usually is a good thing for flavor (expand scientifically on the idea of surface area in cooking)

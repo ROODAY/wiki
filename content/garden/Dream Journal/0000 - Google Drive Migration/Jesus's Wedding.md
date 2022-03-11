@@ -1,0 +1,14 @@
+- Jesus was getting married
+- bunch of guests, including the teen titans
+- I was beast boi
+- there's an old man officiating
+- something happens and attacks/interrupts
+- peoples bodies get switched
+- raven and I get switched
+- we freak out
+- Jesus is just chilling can he can so whatever
+- im like help while there's these tendrils covering his face, looks like he can't breathe but he just snaps his fingers and everything's OK
+- ceremony finishes
+- I go outside but forgot something inside
+- eventually walk with Jesus and bride and Co, before we leave we look at wall of mini statues, there's statues of previous Jesuses, and the old man is a mini statue now
+- walk outside, try holding his hand but then wake up

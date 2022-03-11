@@ -1,0 +1,16 @@
+- fight with two dudes on road, get full of crossbow
+- accept it but get scared of losing Carey
+- go to hospital get patched up
+- do parasailing with the guys but have to be careful due to my injuries
+- far future I'm leader of a group trying to survive post apocalypse
+- we're deciding where to go, pick a tower that's fortified
+- two stages, courtyard and main area
+- both are closed off
+- sometimes the courtyard gets some monkeys (aggressive and trying to attack) inside and we have peeps with guns to get rid of them
+- sometimes the system reboots and the doors between courtyard and main open
+- this happens
+- alpha monkey gorilla (all white hair) gets in and beats me up a bit
+- then it talks, says it's willing to truce
+- I tell shooters to hold their fire
+- one of our scientist doctors inspects the monkey, it can speak Russian and is able to use the equipment in the medical room (the equipment accepts commands in Russian)
+- turns out monkeys used to be human, are just evolved past that

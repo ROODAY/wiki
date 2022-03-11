@@ -1,0 +1,3 @@
+This folder contains my responses to media I have consumed, e.g. books, articles, movies, tv shows, videos, etc.
+
+Note to self, how to reconcile this with entries in Code Diary that are learnings from articles/videos? Semantically they make more sense to exist in the code diary, but perhaps one day we should do some tending and add tags to denote article/media learnings so that discoverability is easier. Perhaps prepare a template with existing tags for this purpose.

@@ -1,0 +1,7 @@
+-   fighting against dragon things 
+-   they're about to unleash a superweapon to kill humans 
+-   it fires and it looks like it's over, red wave of light and pressure wave coming 
+-   nothing happens 
+-   one of our scientists switched out the device core 
+-   we all celebrate 
+-   i get my diploma and a fancy modern camera (think like movie camera) but prints Polaroids

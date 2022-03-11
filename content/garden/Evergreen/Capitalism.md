@@ -1,0 +1,1 @@
+My thoughts on capitalism, as opposed to [[Communism]].

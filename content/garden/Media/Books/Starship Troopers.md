@@ -1,0 +1,4 @@
+- exploration of militaristic society, moral philosophy, duty, authority, force, government
+- Makes me believe more in requirements for citizenship, but not necessarily have it be serving in military
+- Perhaps make a politics/policy folder
+- The buggers are described as a perfect [[Communism]] since they are a hive mind, and each individual bug can be sacrificed as needed for the greater good of the hive.

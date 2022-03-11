@@ -1,0 +1,8 @@
+- in some compound
+- lock all the doors and pull down the metal barriers
+- people come back from mission
+- have to be careful with lights or else dinos see em
+- trex sees it once, almost gets me, steps in and grabs someone then leaves
+- later there are living toys, hot wheels and helicopter and little camera car
+- I try to help them escape
+- collector man stops me

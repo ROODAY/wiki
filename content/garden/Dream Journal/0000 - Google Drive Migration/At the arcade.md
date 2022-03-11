@@ -1,0 +1,6 @@
+-   Some arcade/bar setting
+-   Played some arcade, when playing the view switched so the arcade was full-screen/no longer first person from me
+-   Person playing before me was some cross-dressing dude
+-   Game involved controlling a laser pointer to hit targets
+-   Laser pointer was in place but swiveled (ball/socket joint)
+-   We had 2 characters left to unlock in the game, i spent the credits to get one of the characters. I had to leave because I didn’t have enough time to get enough credits for the last character but I wanted to be the one who did so I told everyone that

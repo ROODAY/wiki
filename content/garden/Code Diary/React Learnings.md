@@ -1,0 +1,20 @@
+- use .finally for stuff like setLoading(false) etc  
+- useState hook gives setState function, you can pass a function in it eg setState(prevState => f(prevState)) etc. You can put this in a useEffect without needing to add deps  
+- [https://github.com/sapegin/washingcode-book/blob/master/manuscript/Avoid_conditions.md](https://github.com/sapegin/washingcode-book/blob/master/manuscript/Avoid_conditions.md)  
+- nest your react router routes  
+- using remix/SSR might be a good opportunity to integrate frontend and backend codebases into one typescript monorepo. Benefit here is shared entities and no need for deserialization. At that point we'll probably have tests, make sure that changes to one side don't require a full monorepo build like in substrate, (or will that be required in cases of entity change?) liftoff will always be tiny compared to substrate, so is that even a worry?  
+- remix needs some work, look for more parity between it and next.js, but remix could be a good contender for greenfield  
+- remix requires passing css files, not in js. how do we do themes then? conditional styles? Everything via classnames? Kinda jank, would prefer not too but perhaps the speedup is worth it  
+- Does remix work with useContext? You load data per route/component, what if you want to pass that down to deeply nested child? You can it seems, or use remix specific stuff to pass stuff down one level  
+- Can we get first party support for remix in azure? e.g. you can deploy to cloudflare, can we deploy to azure?  
+- When you see errors from fluent, fix them. Should be easier to contribute since we own it  
+- what if we use next.js or blitz.js?  
+- .then.catch is superior to .then(onresolve, onreject) because you can do a promise reject in the onresolve function and catch will catch it.  
+- [https://kentcdodds.com/blog/useeffect-vs-uselayouteffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)  
+- Look into codeclimate. is it an ado competitor? can it be integrated? do we have equivalents?  
+- with CRA (dbl check that liftoff uses it, I think so), react-scripts 2.0.4 and higher has tree shaking enabled  
+- use component display name properly to help in debugging  
+- Look into useReducer, maybe it will help with filterbar? Dont prematurely optimize  
+- [https://reactjs.org/docs/hooks-faq.html#how-to-avoid-passing-callbacks-down](https://reactjs.org/docs/hooks-faq.html#how-to-avoid-passing-callbacks-down) tl;dr something similar to the redux pattern, but native in react. perhaps...  
+- maybe use react query to get rid of user and task contexts? then we could just have API functions...but if we commit to remix we wont have loading states anyways so, need to think
+- Use `NODE_ENV=production`: https://flaviocopes.com/node-difference-dev-prod/

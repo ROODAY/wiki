@@ -1,0 +1,1 @@
+VR that ties directly to brain stem like (insert pop culture here), black mirror, SAO, etc. I think it'd be cool.

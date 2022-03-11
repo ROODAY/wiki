@@ -1,0 +1,34 @@
+- Rest of [Hyperion Cantos](https://en.wikipedia.org/wiki/Hyperion_Cantos)
+- Maybe rest of ender's game books?
+- Expanse books
+- Finish Dune and the physical books you own
+- One place to start: The 2018 National Book Awards finalists for fiction. Their characters include a group of black men in New York City; a teenage Cherokee boy; and a group of queer friends in Chicago during the AIDS epidemic. Here are the titles of those:  
+	- “A Lucky Man” by Jamel Brinkley  
+	- “Where the Dead Sit Talking” by Brandon Tobson  
+	- “The Great Believers” by Rebecca Makkai
+- 3 Body Problem series
+- Classic sci fi in general
+- Terry Pratchet books
+- Culture books by Ian man
+- Asimov, bradbury etc.
+- Stranger in a strange land, more heinlein
+- Altered Carbon
+- https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes
+- Pride and Prejudice
+- Chaucer's canterbury tales, and compare to hyperion
+- Kafka books
+- Blindsight, by Peter watts
+- Something Coming Throug, Paul McAuley
+- The Three Body Problem, by Cixin Liu
+- Solaris, Stanislaw Lem
+- A Fire Upon the Deep, Vernon Vinge
+- The Mote in God's Eye, by Larry Niven and Jerry Pournelle
+- Marx and Lenin, Das Capital, more communist literature so I know what I'm talking about
+	- A People's Guide to Capitalism: An Introduction to Marxist Economics
+- What If 1 and 2 by XKCD
+- Ringworld
+- 1984
+- Brave New World
+- The Human Condition
+- The Dictator's Handbook
+- The Design Way

@@ -1,0 +1,10 @@
+- big mansion
+- am like hitman, trying to get to kid to protect, taking down guards on the way
+- meet up with kids and his crew, about 3 others that are familiar/friendly to me
+- shit goes down and we have to escape, not sure if supernatural or another hitman
+- some other guy shows up and helps us out, we run from other hitman
+- parking lot is huge and we have to go up a lot, getting tired
+- as one of our guys runs for exit, he sees other hitman
+- extra guy helping us and the kid try to run around, hitman grabs extra guy and tussle/kill him
+- turns out extra guy was hitman and the other one was trying to protect us
+- we all escape gg no re

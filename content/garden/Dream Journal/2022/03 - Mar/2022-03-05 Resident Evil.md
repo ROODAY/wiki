@@ -1,0 +1,20 @@
+---
+tags: [dreamjournal]
+aliases: ["Resident Evil"]
+---
+
+# Resident Evil
+### 2022-03-05
+---
+
+I was at a party at some person's apartment, it was a pretty small place. We were all sitting on a cream colored U shaped sofa with a coffee table in front of it and a TV past that. I was telling the others at the part of some Resident Evil movie, and that we should watch it on the TV.
+
+Next thing I know the view is inside the Resident Evil movie universe, although this is nothing like the real Resident evil. The movie began with a steady pan down a damaged city street, perhaps in NYC. It looked like something large had crashed through the street, and indeed the camera lands on a black cargo plane's wreckage, still smoking. There are thin sheets of ice hanging off the plane, and as the camera switches to a close up view of the wreckage a ragtag group of people emerge. Some of them are armed and looked like soldiers, others look like researches/civilians.
+
+It seems that that the group from the plane was chasing something, and as they survived the city street, which was eerily devoid of people, a fast moving blur shoots past the view and down the street, and the group shouts and begins their chase. The object of their chase is a creature, looking like Venom, but with a black and red color scheme. The creature jumps down into the sewers below, as the plane had made a gaping trough through the street and exposing the sewer tunnels. The group runs up to the lip of the hole and looks inside, wary of what will come next when they enter.
+
+Then there was a montage of different scenes of chaos happening around the world, people being attacked by strange creatures in their homes/on the streets, riots, general apocalypse type stuff. These views show up as a grid so I can see all of them at once, and then the camera zooms into one of these views of a kid being attacked by some red tendril, and then zooming into further into someone's bloodstream (not sure if it was the tendril or the kid). The camera was now in some sort of artery or blood vessel (I could see the walls of the artery surrounding the periphery) and up ahead was T-junction with another artery. A white centipede like creature rushed passed the junction, in and out of view. Then the camera slowly zoomed out a bit so that it was no longer in the artery, but could see a network of arteries and blood vessels, and out of these the title card of "Resident Evil" came into view, as if the letters were made out of the same material.
+
+Despite it never being said outright, I just knew that the chaos was being caused by an alien virus that had crash landed on Earth's North Pole millions of years ago, perhaps hitching a ride on some meteorite. Global warming had allowed the ice to melt and the virus to thaw, and once it was released into our atmosphere it started to mutate organize matter, creating the Venom like creature and all the other creatures that were wreaking havoc.
+
+Next, I was in this world, and I was with Ray from work. We were standing in some mutated landscape, where the ground was a bright beige with spots of mottled purple and green. We were trying to reach a safe haven as the world had been mostly mutated by the virus, and we were stepping carefully to avoid hitting some mutated plant that might kill us. At one point we could see over a small ridge that there was a pasture of unmutated grass, with normal looking cows, and we decided that that would be the best course of action. We clambered over the ridge and started heading towards the grass when I noticed this plant in front of us. It was tall like a sunflower, but it looked like the flower hadn't bloomed yet. It was like a cone, and it would shoot these mutated seeds that would stick to wherever they landed, and if they hit us it would make us sick. It fired some seeds in our direction and I could see them approach in slow motion, but just before they made impact, I woke up.

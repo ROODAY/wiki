@@ -1,0 +1,1 @@
+Consider having multiple environments, like staging and prod. GitLab flow seems like a good candidate.

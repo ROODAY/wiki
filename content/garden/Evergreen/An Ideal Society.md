@@ -1,0 +1,1 @@
+post scarcity (a separate thought? probably)

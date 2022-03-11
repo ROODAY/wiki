@@ -1,0 +1,11 @@
+- me and one other in a zombies map
+- small industrial area, corridor like, a prison
+- door on left and right, mounted gun in center
+- demon Lady with mouth for face comes out of ground to say the horde is coming
+- zombies start streaming from the hole in the ground, the sides, etc
+- play out like cod zombies
+- mini boss comes in form of giant robot
+- peaks eye through doors and we have to shoot eye until he leaves and goes to other side
+- final phase he gets into the main corridor and starts shooting laser beams (like breath of the wild)
+- after defeating him his body disappears and drops some items
+- audiologs reveal he was built by a previous warden of the prison

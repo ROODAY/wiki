@@ -1,0 +1,1 @@
+Not sure, was just interested randomly. Need to look it up. First guess is that files store absolute path, and directories are just special files, perhaps with links to children to make indexing/searching faster?

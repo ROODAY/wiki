@@ -1,0 +1,1 @@
+cant afford -> not willing to afford -> willing to afford -> dont even care

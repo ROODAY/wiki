@@ -1,0 +1,22 @@
+- start on a school bus
+- stop at place that looks like somewhere in Europe, kinda like the csgo Italy map
+- it's night time but the streets are lit with neon lights and paint on the ground
+- we all get out and follow to the end, there's a giant palace on the waterfront
+- tech together is happening inside the palace
+- Aaron is in a toga playing the piano by the waters edge
+- i realize I forgot my bag and run back through the streets and get it
+- as I walk back I feel scared, hunted
+- locale changes
+- I'm being hunted by Billy Russo
+- sometimes I'm also Spiderman and Russo is Venom
+- I'm walking along a street and wearing military gear and blending in
+- Russo is in a another building and spots me, tells soldiers to aim between my armor where a scar shaped like a spider is
+- I notice this and tighten the armor to cover it but I still get shot
+- I duck and limp away as Russo comes down
+- I web sling away and Russo does the same as Venon in chase
+- I make my way to some small house, 2 parents and 3 kids
+- I hide out there, they're nice and let me hide
+- I tell them about being in the military, there was some private who took a nade earlier on
+- Russo finds the place and finds me, drags me with him to a hospital
+- shows me the private who took a nade, he's missing limbs and brain function is that of a kids
+- Russo says its my fault and I wake up

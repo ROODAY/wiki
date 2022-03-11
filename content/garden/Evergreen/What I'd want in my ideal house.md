@@ -1,0 +1,12 @@
+- Cove behind wall mounted TV to hide plugs/cords/cable box/etc
+- Vacuum hose built into the wall so you dont need to lug a vacuum around
+	- One in the bathroom too, easy shaving cleanup
+- Fridge and trash cans that match cabinetry (not so sure on the fridge yet)
+- Garbage disposal button for sink closer to counter edge (safety issue if it can be turned on too easily?)
+- Home server rack in basement
+- Man cave/gaming room
+- Hidden rooms
+- Ethernet/cable routing everywhere
+- Security stuff
+- Walk in closets/lots of closet space
+- Hidden outlets in cabinets and drawers

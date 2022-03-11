@@ -1,0 +1,9 @@
+-   Night time, fancy mansions/estate in tropical area
+-   Think castro’s palace in black ops, lots of stone structures
+-   Had a FAMAS, kept fiddling with it waiting for opportunity
+-   At a table with bad guy leader and two other guards
+-   Everyone wearing body armor so I needed headshots
+-   There was a gate of sorts to my right, and the truck to the left (think soldier transport from most games)
+-   Positioned myself to take out guard and main baddie in one shot, then take out other guy. Kept going over scenario in my head to make sure I could get out, because guards through gate would hear and come through
+-   Was upset I didn’t have a silencer as this complicated things
+-   Eventually did it as planned, two at once then the other, then ran to the truck as enemies streamed in

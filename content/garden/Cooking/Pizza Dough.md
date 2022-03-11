@@ -1,0 +1,11 @@
+
+Effects on the dough from the following: <iframe width="560" height="315" src="https://www.youtube.com/embed/FJxJhbCFsco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Sugar
+Not necessarily needed for yeast to rise, flour has enzymes in it that break down starch molecules into fermentable sugars for the yeast. Less sugar = less sticky dough. Sugar is said to enhance browning. (caramelization?) less sugar = fluffier/chewier bread, it doesnt break down the gluten. More bready taste with less sugar/no sugar. Extra sugar makes interior more moist. Sugar holds on to water, less escapes as steam, less puffyness, weaker gluten network, so less bubbles on the inside. Sugar is partly responsble for cakey texture (huh guess thats how you make cake)
+
+## Oil
+Zero oil needs more time in the oven, oil speeds up cooking as its a more effective thermal interface. Interior is more bready, like less sugar. Its fluffy inside. Like sugar, fat weakens gluten. Extra oil makes dough soft, extra crispy outside, makes inside tender, falls apart.
+
+## Yeast
+Less yeast = less rising, gummy/doughy texture, tastes bad. Bread on its own tastes bad (wet flour basically). Heat helps with the outside, but fermentation is what makes the inside taste good. E.g. Yeast. No yeast, disgusting. Think tortilla, it works because its so thin, basically its all outside so heat does its job. For bread, you have a lot unfermented wet flour on the inside that doesnt heat up as much. More yeast doesnt rise up much more, but more sticky dough. Interior is a wee bit fluffier. But way more flavor with more yeast. Makes bread more sour, so good if you like sourdough. Too much yeast will weaken gluten and cause too much gas, bread will puff up and collapse. But this is good for flatbread, e.g. pizza dough. Too much yeast is bad for thin crust, as it weakens gluten and the dough will rip when streched. Just add more dough though and make it thick crust.

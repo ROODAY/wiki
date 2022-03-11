@@ -1,0 +1,1 @@
+I'm pretty sure this is just a warren buffet quote, if there's nothing new to add here consider just linking to that quote.

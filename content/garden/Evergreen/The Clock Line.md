@@ -1,0 +1,1 @@
+Re-read this https://tomcritchlow.com/2021/01/26/kairos/ properly, and then flesh out this page, maybe make more pages

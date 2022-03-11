@@ -1,0 +1,9 @@
+- a world where some people have the ability to breath acid as an attack
+- starts at same gaming event in a sports stadium
+- guard is talking to some guy that’s trying to get in, some other guy comes up behind him and breathes on him, leaving an acid burn
+- i also have this power but i'm a good guy, there are a few others like me fighting the bad acid breathers
+- goes to fight scene inside parking garage/some area with spiral stairs in the back (circular room)
+- big enemy dude, buff, takes off shirt and starts swinging a big pipe around
+- me and ally eventually get fight him back and knock him down, I look back at enemy and know he has bandolier of throwing knives
+- starts lazily throwing them at me and they’re all perfect throws
+- i try throwing them back but i suck at throwing, he just throws the back since they land blunt end first on him
