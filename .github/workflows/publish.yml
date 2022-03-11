@@ -32,3 +32,4 @@ jobs:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           # The branch expected by GitHub to have the static files needed for your site.
           deploy-branch: gh-pages
+          gatsby-args: --prefix-paths
