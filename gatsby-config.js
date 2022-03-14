@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: "/reponame",
+    pathPrefix: "/wiki",
     plugins: [{
         resolve: `gatsby-theme-garden`,
         options: {
