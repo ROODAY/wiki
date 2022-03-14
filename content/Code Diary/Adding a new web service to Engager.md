@@ -12,10 +12,17 @@ server {
     location / {
         proxy_pass http://127.0.0.1:PORT;
     }
-
 }
 ```
 This assumes that the service is running localhost on some port, but that's a safe assumption here.
+
+If a transparent proxy is needed, e.g. CSS/JS resources are failing to load as the browser is looking for `http://127.0.0.1/RESOURCE`, then add these lines:
+```
+proxy_set_header Host $host;
+proxy_set_header X-Real-IP $remote_addr;
+proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+proxy_set_header X-Forwarded-Proto $scheme;
+```
 
 After creating that file, enable it by running `sudo ln -s /etc/nginx/sites-available/SERVICE_NAME.rooday.com /etc/nginx/sites-enabled/`, then run `sudo systemctl restart nginx` so it's live.
 

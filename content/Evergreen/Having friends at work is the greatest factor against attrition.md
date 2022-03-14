@@ -1,0 +1,1 @@
+This was an idea that [[Shashank]] told me, that people who have a best friend at work are much less likely to leave than people who don't, as community is a key part to happiness. This came in the conversation that birthed [[Is Happiness a Delusion]].

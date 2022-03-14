@@ -1,0 +1,3 @@
+Convo with uber driver and [[Shashank]], idea that happiness is just telling yourself that your life is better than it is. I was thinking that its telling yourself your life isn't as bad as you think it is. [[Shashank]] said this is the same thing, but I think the framing is an important distinction.
+
+There was more to the conversation, mostly relating to the idea of ignorance is bliss/the more you know about reality the more sobered you are.
