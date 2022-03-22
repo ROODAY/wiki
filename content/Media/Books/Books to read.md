@@ -32,3 +32,6 @@
 - The Human Condition
 - The Dictator's Handbook
 - The Design Way
+- The Selfish Gene by Richard Dawkins
+- Sapiens by Yuval
+- A Concise Chinese English Dictionary For Lovers
