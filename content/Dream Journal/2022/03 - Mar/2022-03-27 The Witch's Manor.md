@@ -1,0 +1,16 @@
+---
+tags: [dreamjournal]
+aliases: ["The Witch's Manor"]
+---
+
+# The Witch's Manor
+### 2022-03-27
+---
+
+The group having the orgy from the end of the previous dream ([[2022-03-27 Submarine Shenanigans|Submarine Shenanigans]]), were doing their thing while the dreamscape became some fancy manor, similar to the one from Clue (the board game or the movie). The bedroom the group was in became the top of some glass tower, but the tower was still inside the manor. I guess it wasn't really a tower? The image that I have in my head is the inside of some large building, I think the architecture style would be brutalist? The walls were concrete, with fluorescent lights, and on the left there was a staircase going up, and on the right, high up near the top was the room the group was trapped in, with floor to ceiling glass windows overlooking the staircase area. Almost reminds of the TVA from the Loki show.
+
+Somehow, the place I just described was still inside the witch's manor, and shortly after it was no longer a room with glass windows in a brutalist structure, but just a normal room inside the manor, with a metal gate instead of a door. I was no longer myself, just a camera view watching the scene unfold, as the group tried banging against the gate to get out. I wanted to help, and similar to how prop possession works in Garry's Mod, I possessed an item in the hopes of getting them out. However, I was just a gold coin, so I couldn't really affect much.
+
+I rolled around, looking for something I could affect, and along the way I rolled past some investigator looking guy, maybe a Poirot-esque figure, who I guess was looking into the trapped group? Perhaps their friends had reported them missing, and it had been some time? Regardless, I rolled towards their room, and into it, but there was nothing I could do. I sensed that there was some power outside I could use, so I rolled out the room and out the front door and went around the manor grounds.
+
+It was dark outside, and I think the manor was situated on some cliffside, similar to the recent Cruella movie. While I was going around some tall hedges, the witch sensed my presence, as well as the presence I was going towards, and started flying from her room inside the manor towards the power I was rolling towards. Alas, my gold coin form wasn't fast enough and she beat me to it, and the power I sensed was the corpse of a dragon (how it got there or how it died, I don't know) and the witch absorbed the latent power from the corpse. She morphed into this strange mask made out of wood, like some sort of eldritch abomination version of [this](https://media.istockphoto.com/photos/drama-and-comedytheatre-symbols-picture-id146077206?k=20&m=146077206&s=612x612&w=0&h=4Gv5UPPUp4EpMnGgODZE4hJozaoNV2BqM3UdV0K08Tc=), with tendrils coming out of the mask and a sickly green light emanating from her and filling the air. Before I could do anything else, she cursed me out of that dream and into the next one: [[2022-03-27 Downhill Video Game Level|Downhill Video Game Level]].
