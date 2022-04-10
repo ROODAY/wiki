@@ -37,3 +37,5 @@
 - A Concise Chinese English Dictionary For Lovers
 - Murakami stuff
 - 21 lessons for the 21st century
+- Dark Matter
+- Charm Offensive
