@@ -9,3 +9,4 @@ What would happen is casual determinism was proved/if we had an Ultimate Intelli
 
 Isn't causal determinism similar in concept to believing in God's plan? Both are predicated on the fact that events are set in motion by forces out of our control, and there is nothing we can really do to change them, just embrace them.
 
+After reading [[Slaughterhouse 5]] and reading up on the book's analysis, I think my interpretation of [[Causal Determinism]] and its consequences is fatalistic.

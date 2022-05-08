@@ -6,3 +6,4 @@ Some things that should be rights: stable shelter, sufficient food to be healthy
 
 ### Random notes
 - banks should be forced to provide good apis with ouath to protect their customers
+- Tax withholding should be transparent. Either don't withhold at all and present a bill at the end of the year, or withhold exactly what's needed and don't bother us with tax preparation.
