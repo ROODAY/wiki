@@ -1,0 +1,19 @@
+---
+tags: [dreamjournal]
+aliases: ["Hangover Fever Dream"]
+---
+
+# Hangover Fever Dream
+### 2022-08-28
+---
+
+Not going to flesh this one out because it’s just a bunch of vague memories, but here goes:
+
+- It started off on a highway. I was on some bus with some people and the bus had crashed, and we were stumbling out of the wreckage onto the road. For some reason, the cars wouldn’t stop barreling through at highway speeds, and a couple people got splattered. Luckily I made it to the median with some other folks (it wasn’t a proper median, there was only paint separating the sides of the highway. To the right it entered into a tunnel, and the wall of the tunnel was where we were congregating. As we waited there, a truck coming from the opposite direction crashed as well, which at least gave us a bigger wall to hide behind.
+- The next thing I knew the world was in an apocalypse. Demons ruled the Earth, but humans could still do their thing. Just everything was apocalyptic, cracked roads, red skies, etc. [[Shashank]], me, and some others were wandering around trying to get to this demon party where the demon bigwigs were, and we kept encountering invisible portals, like the platform from Harry Potter. You’d have to just run into it and then you’d be teleported somewhere, except all the portals we were finding would send us only a few feet away.
+- Then there was a scene where we weren’t there, but it showed this demon party happening at the top of a skyscraper. The sky was blood red with black clouds, and they were listening to club music and had pools and hot tubs up there. I vaguely remember a shot of a demon lord flipping a switch, and I had the feeling that they were screwing things up for humanity.
+- Next I remember some 1950’s steamboat willie-esque animation instead of the live action the rest of the dream was in. Some demon guy was walking out of a house down a street towards the camera, but in the background some wolf demon in a suit was leaning against a wall and pointing up at the top left corner of the frame, and then the shot zoomed in on that corner returning to the live action world.
+- Then I was part of some squad of people going to turn the water back on in some city. It had gotten shut off by the demons, and this was wreaking havoc and people would die if we didn’t get to it fast enough. I was there with a couple other people, including this girl in an Elastigirl suit. We were going through ruins that reminded me of Dwemer ruins from Skyrim, and just like Skyrim I could look at items and press A to grab them, so I was looting quite a bit. At one point we were going down some stairs, and the elastigirl took off her pants and said we should just bang and save the world on Monday, but I said no it couldn’t wait and kept going. Then I saw a flashback scene of her when she was younger, and it turns out she was an android built by some lab, and she was sent here to sabotage my mission.
+- Eventually we found some switch and flipped it and left the ruins, but we had to do the same thing in another ruin (very video-game like). After we did that, we flooded the lower levels of the city, which was bad as some people were living down there, but for the greater good I guess.
+- The final scene was out on some sandy/dusty area, but this time with a bright blue sky and white clouds. I guess we saved the world off-screen somehow. In front of me was Arnold Schwarzenegger in a tank top, he had just set the world record for consecutive pullups, and I was doing a front lever on some monkey bars. Then I saw [[Dmitry]] standing with a bunch of dudes, he was shirtless and had some colorful geometric tattoos on his chest and was bumping to some hardbass.
+- And then I woke up.
